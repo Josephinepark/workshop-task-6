@@ -24,6 +24,8 @@ https://github.com/dhowe/ritajs#with-p5js
 If you already have a sketch, simply add <script src="https://unpkg.com/rita"></script> to your index.html to include RiTa.
 <Br>
 <Br>
+<img width="446" alt="image" src="https://github.com/user-attachments/assets/139259e6-ce1a-4bc3-95b5-7d9c57bff212" />
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/0ab19eee-06ed-4b4b-9ee9-9665f1715eb5" />
 
 
 
