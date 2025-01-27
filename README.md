@@ -2,7 +2,11 @@
 
 # Workshop 6 : Text and Language
 
-[Website Link] 
+[Website Link] https://josephinepark.github.io/workshop-task-6/
+
+1. RiTa.tokenize()<Br>
+2. RiTa.rhymesSync()<Br>
+3. RiTa.isVerb()
 
 ## Task
 [] Create an interactive nonsense poem generater using the rita.js library.<br>
@@ -43,6 +47,11 @@ For this workshop, I needed to download the fonts from the internet. I have down
 <img width="716" alt="image" src="https://github.com/user-attachments/assets/ad2de0fa-8b68-43ce-9321-186bc035368b" />
 <br>
 <img width="723" alt="image" src="https://github.com/user-attachments/assets/76b3a372-f3e8-43c8-8add-15a6bab90c8b" />
+<br>
+<Br>
+While working with fonts, I encountered several challenges. Initially, I used a font that I liked, but I soon noticed that the text overlapped, creating a visual issue. After consulting with my professor, I was advised that the problem might be related to the font itself or possibly an issue with the file.
+Following this advice, I tried using the second font I had downloaded, and this time, everything worked perfectly without any issues. Through this experience, I learned that fonts come in various file formats, and if one file does not work as expected, trying a different format can be an effective solution.
+By resolving this issue successfully, I was able to move on to the next stage of my project. This experience taught me the importance of preparing multiple font file formats and having backup options in case any issues arise.
 
 
 
